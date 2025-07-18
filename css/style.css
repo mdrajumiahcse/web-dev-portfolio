@@ -144,3 +144,19 @@ main section{
 .resume .resume-btn{
     margin-top: 40px;
 }
+
+
+
+/*footer section start*/
+.footer-main{
+    display: flex;
+    gap: 50px;
+    padding: 10px;
+}
+.social-icon{
+    display: flex;
+}
+.social-icon li{
+    list-style: none;
+    margin-right: 15px;
+}
